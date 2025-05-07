@@ -1,3 +1,5 @@
+name: zmk-keyboard-palm
+
 build:
   settings:
     board_root: .
